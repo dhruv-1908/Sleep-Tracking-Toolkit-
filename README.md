@@ -1,7 +1,3 @@
-# Sleep-Tracking-Toolkit-
-Here’s a clean **README.md** style draft for your `sleep_tracking_toolkit` package based on the requirements you listed:
-
----
 
 # 💤 Sleep Tracking Toolkit
 
